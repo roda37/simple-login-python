@@ -1,1 +1,1 @@
-# simple_login_mechanism written in python
+# simple login mechanism written in python
